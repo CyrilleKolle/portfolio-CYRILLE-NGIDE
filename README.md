@@ -1,2 +1,3 @@
 # portfolio-CYRILLE-NGIDE
-Summary of an aspiring developer as he journeys through his studies at IT-Högskolan
+
+<span style="color:green">Follow me as I journey through the amazing world of artificial intelligence and machine learning </span>
